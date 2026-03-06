@@ -53,5 +53,4 @@ npm run dev
 Keyla Nima Purizaca
 
 ## Aplicación en línea
-
 https://nimapurizacakeyla-dev.github.io/control-lockers-usta/

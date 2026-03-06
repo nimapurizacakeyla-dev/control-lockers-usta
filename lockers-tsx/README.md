@@ -51,3 +51,7 @@ npm run dev
 ## Autor
 
 Keyla Nima Purizaca
+
+## Aplicación en línea
+
+https://nimapurizacakeyla-dev.github.io/control-lockers-usta/
